@@ -83,7 +83,7 @@
          	</a>         
 
 	         <ul id="nav" class="nav">
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>">Home.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/index.php">Home.</a></li>
               <li><a class="smoothscroll" href="<?php site_url(); ?>/services.php">Services.</a></li>
 	            <li><a class="smoothscroll" href="<?php site_url(); ?>/works.php">Works.</a></li>
 	            <li><a class="smoothscroll" href="<?php site_url(); ?>/about.php">About.</a></li>
