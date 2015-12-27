@@ -25,32 +25,32 @@
    	<div class="portfolio-content">
 				<div class="entry-content">
 					<div id="freewall">
-                  <a href="/data/new-day/1b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/1.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/1b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/1.jpg">
                   </a>
-                  <a href="/data/new-day/2b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/2.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/2b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/2.jpg">
                   </a>
-                  <a href="/data/new-day/3b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/3.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/3b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/3.jpg">
                   </a>
-                  <a href="/data/new-day/4b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/4.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/4b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/4.jpg">
                   </a>
-                  <a href="/data/new-day/5b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/5.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/5b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/5.jpg">
                   </a>
-                  <a href="/data/new-day/6b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/6.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/6b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/6.jpg">
                   </a>
-                  <a href="/data/new-day/7b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/7.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/7b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/7.jpg">
                   </a>
-                  <a href="/data/new-day/8b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/8.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/8b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/8.jpg">
                   </a>
-                  <a href="/data/new-day/9b.jpg" class="brick brooklyn">
-                     <img src="/data/new-day/9.jpg">
+                  <a href="<?php site_url(); ?>/data/new-day/9b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/new-day/9.jpg">
                   </a>
                </div>
 				</div>

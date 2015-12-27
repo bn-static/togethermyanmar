@@ -25,69 +25,69 @@
    	<div class="portfolio-content">
 				<div class="entry-content">
 					<div id="freewall">
-                  <a href="/data/aluminium/36b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/36.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/36b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/36.jpg">
                   </a>
-                  <a href="/data/aluminium/37b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/37.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/37b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/37.jpg">
                   </a>
-                  <a href="/data/aluminium/38b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/38.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/38b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/38.jpg">
                   </a>
-                  <a href="/data/aluminium/39b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/39.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/39b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/39.jpg">
                   </a>
-                  <a href="/data/aluminium/40b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/40.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/40b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/40.jpg">
                   </a>
-                  <a href="/data/aluminium/41b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/41.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/41b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/41.jpg">
                   </a>
-                  <a href="/data/aluminium/42b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/42.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/42b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/42.jpg">
                   </a>
-                  <a href="/data/aluminium/43b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/43.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/43b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/43.jpg">
                   </a>
-                  <a href="/data/aluminium/44b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/44.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/44b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/44.jpg">
                   </a>
-                  <a href="/data/aluminium/45b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/45.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/45b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/45.jpg">
                   </a>
-                  <a href="/data/aluminium/46b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/46.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/46b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/46.jpg">
                   </a>
-                  <a href="/data/aluminium/47b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/47.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/47b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/47.jpg">
                   </a>
-                  <a href="/data/aluminium/48b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/48.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/48b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/48.jpg">
                   </a>
-                  <a href="/data/aluminium/49b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/49.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/49b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/49.jpg">
                   </a>
-                  <a href="/data/aluminium/50b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/50.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/50b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/50.jpg">
                   </a>
-                  <a href="/data/aluminium/51b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/51.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/51b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/51.jpg">
                   </a>
-                  <a href="/data/aluminium/52b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/52.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/52b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/52.jpg">
                   </a>
-                  <a href="/data/aluminium/53b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/53.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/53b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/53.jpg">
                   </a>
-                  <a href="/data/aluminium/54b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/54.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/54b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/54.jpg">
                   </a>
-                  <a href="/data/aluminium/55b.jpg" class="brick brooklyn">
-                     <img src="/data/aluminium/55.jpg">
+                  <a href="<?php site_url(); ?>/data/aluminium/55b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/aluminium/55.jpg">
                   </a>
                </div>
                <div class="pagination">
-                  <a href="/services/aluminium.php"><i class="icon-arrow-left"></i>Back </a>
+                  <a href="<?php site_url(); ?>/services/aluminium.php"><i class="icon-arrow-left"></i>Back </a>
                </div>
 				</div>
 	   </div> <!-- /portfolio-content -->

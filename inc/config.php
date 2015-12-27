@@ -1,4 +1,4 @@
 <?php
 function site_url() {
-	echo '';
+	echo 'http://biznet.com.mm/togethermyanmar';
 }

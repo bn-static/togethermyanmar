@@ -25,35 +25,35 @@
    	<div class="portfolio-content">
 				<div class="entry-content">
 					<div id="freewall">
-                  <a href="/data/police/1b.jpg" class="brick brooklyn">
-                     <img src="/data/police/1.jpg">
+                  <a href="<?php site_url(); ?>/data/police/1b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/1.jpg">
                   </a>
-                  <a href="/data/police/2b.jpg" class="brick brooklyn">
-                     <img src="/data/police/2.jpg">
+                  <a href="<?php site_url(); ?>/data/police/2b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/2.jpg">
                   </a>
-                  <a href="/data/police/3b.jpg" class="brick brooklyn">
-                     <img src="/data/police/3.jpg">
+                  <a href="<?php site_url(); ?>/data/police/3b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/3.jpg">
                   </a>
-                  <a href="/data/police/4b.jpg" class="brick brooklyn">
-                     <img src="/data/police/4.jpg">
+                  <a href="<?php site_url(); ?>/data/police/4b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/4.jpg">
                   </a>
-                  <a href="/data/police/5b.jpg" class="brick brooklyn">
-                     <img src="/data/police/5.jpg">
+                  <a href="<?php site_url(); ?>/data/police/5b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/5.jpg">
                   </a>
-                  <a href="/data/police/6b.jpg" class="brick brooklyn">
-                     <img src="/data/police/6.jpg">
+                  <a href="<?php site_url(); ?>/data/police/6b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/6.jpg">
                   </a>
-                  <a href="/data/police/7b.jpg" class="brick brooklyn">
-                     <img src="/data/police/7.jpg">
+                  <a href="<?php site_url(); ?>/data/police/7b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/7.jpg">
                   </a>
-                  <a href="/data/police/8b.jpg" class="brick brooklyn">
-                     <img src="/data/police/8.jpg">
+                  <a href="<?php site_url(); ?>/data/police/8b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/8.jpg">
                   </a>
-                  <a href="/data/police/9b.jpg" class="brick brooklyn">
-                     <img src="/data/police/9.jpg">
+                  <a href="<?php site_url(); ?>/data/police/9b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/9.jpg">
                   </a>
-                  <a href="/data/police/10b.jpg" class="brick brooklyn">
-                     <img src="/data/police/10.jpg">
+                  <a href="<?php site_url(); ?>/data/police/10b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/police/10.jpg">
                   </a>
                </div>
 				</div>

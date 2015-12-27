@@ -38,7 +38,7 @@
 
                         <div class="member-name">
                            <h3>Hotel Amara</h3>
-                           <span><a href="/works/hotel-amara.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/hotel-amara.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -55,7 +55,7 @@
 
                         <div class="member-name">
                            <h3>MRTV 4</h3>
-                           <span><a href="/works/mrtv4.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/mrtv4.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -72,7 +72,7 @@
 
                         <div class="member-name">
                            <h3>Hotel Imperial Jade</h3>
-                           <span><a href="/works/imperial-jade.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/imperial-jade.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -89,7 +89,7 @@
 
                         <div class="member-name">
                            <h3>Government Home</h3>
-                           <span><a href="/works/government-home.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/government-home.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -106,7 +106,7 @@
 
                         <div class="member-name">
                            <h3>Nay Gabar</h3>
-                           <span><a href="/works/nay-gabar.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/nay-gabar.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -123,7 +123,7 @@
 
                         <div class="member-name">
                            <h3>New Day</h3>
-                           <span><a href="/works/new-day.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/new-day.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -139,7 +139,7 @@
 
                         <div class="member-name">
                            <h3>Police Station</h3>
-                           <span><a href="/works/police.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/police.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -155,7 +155,7 @@
 
                         <div class="member-name">
                            <h3>Police Station</h3>
-                           <span><a href="/works/pyi-garden.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/pyi-garden.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -171,7 +171,7 @@
 
                         <div class="member-name">
                            <h3>Ruby Hall</h3>
-                           <span><a href="/works/ruby-hall.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/ruby-hall.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -187,7 +187,7 @@
 
                         <div class="member-name">
                            <h3>Shwe Kyar Pin</h3>
-                           <span><a href="/works/shwe-kyar-pin.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/shwe-kyar-pin.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -203,7 +203,7 @@
 
                         <div class="member-name">
                            <h3>Toilet</h3>
-                           <span><a href="/works/toilet.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/toilet.php">View Works</a></span>
                         </div>
 
                      </div>                     
@@ -219,7 +219,7 @@
 
                         <div class="member-name">
                            <h3>Tower</h3>
-                           <span><a href="/works/tower.php">View Works</a></span>
+                           <span><a href="<?php site_url(); ?>/works/tower.php">View Works</a></span>
                         </div>
 
                      </div>                     

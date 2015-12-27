@@ -25,32 +25,32 @@
    	<div class="portfolio-content">
 				<div class="entry-content">
 					<div id="freewall">
-                  <a href="/data/nay-gabar/1b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/1.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/1b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/1.jpg">
                   </a>
-                  <a href="/data/nay-gabar/2b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/2.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/2b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/2.jpg">
                   </a>
-                  <a href="/data/nay-gabar/3b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/3.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/3b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/3.jpg">
                   </a>
-                  <a href="/data/nay-gabar/4b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/4.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/4b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/4.jpg">
                   </a>
-                  <a href="/data/nay-gabar/5b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/5.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/5b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/5.jpg">
                   </a>
-                  <a href="/data/nay-gabar/6b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/6.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/6b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/6.jpg">
                   </a>
-                  <a href="/data/nay-gabar/7b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/7.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/7b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/7.jpg">
                   </a>
-                  <a href="/data/nay-gabar/8b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/8.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/8b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/8.jpg">
                   </a>
-                  <a href="/data/nay-gabar/9b.jpg" class="brick brooklyn">
-                     <img src="/data/nay-gabar/9.jpg">
+                  <a href="<?php site_url(); ?>/data/nay-gabar/9b.jpg" class="brick brooklyn">
+                     <img src="<?php site_url(); ?>/data/nay-gabar/9.jpg">
                   </a>
                </div>
 				</div>
