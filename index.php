@@ -17,21 +17,21 @@
 					   <li>
                <div class="flex-caption">
                 <h1>Professional Interior &amp; Exterior &amp; Decoration</h1>  
-                <p><a class="button stroke smoothscroll" href="/about.php">More About Us</a></p>                                   
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/about.php">More About Us</a></p>                                   
               </div>            
              </li>
 
              <li>
                <div class="flex-caption">
                 <h1>We decorate the beauty you can be proud of</h1>  
-                <p><a class="button stroke smoothscroll" href="/about.php">More About Us</a></p>                                   
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/about.php">More About Us</a></p>                                   
               </div>            
              </li>
 
              <li>
                <div class="flex-caption">
                 <h1>Yes, we work on teak too</h1>
-                <p><a class="button stroke smoothscroll" href="/about.php">More About Us</a></p>                                   
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/about.php">More About Us</a></p>                                   
               </div>            
              </li>
 
@@ -177,7 +177,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/1.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/1.jpg">
                         <div class="overlay"></div>                       
                         <div class="portfolio-item-meta">
           					      <h5>New Day</h5>
@@ -192,7 +192,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/2.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/2.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>Buddha Room</h5>
@@ -208,7 +208,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/3.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/3.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>Guest Room</h5>
@@ -224,7 +224,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/4.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/4.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>Gym</h5>
@@ -240,7 +240,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                     	<img src="/data/featured/5.jpg">
+                     	<img src="<?php site_url(); ?>/data/featured/5.jpg">
                        	<div class="overlay">
                        		<div class="portfolio-item-meta">
           					      <h5>Restaurent</h5>
@@ -256,7 +256,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/6.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/6.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>House</h5>
@@ -272,7 +272,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">                        
-                        <img src="/data/featured/7.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/7.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>Hotel</h5>
@@ -288,7 +288,7 @@
                   <div class="item-wrap">
 
                      <a href="works.php">
-                        <img src="/data/featured/8.jpg">
+                        <img src="<?php site_url(); ?>/data/featured/8.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
           					      <h5>Government Building</h5>
