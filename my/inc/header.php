@@ -19,6 +19,7 @@
 
 	<!-- CSS
     ================================================== -->
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/earlyaccess/tharlon.css">
    <link rel="stylesheet" href="<?php site_url(); ?>/css/base.css">
 	<link rel="stylesheet" href="<?php site_url(); ?>/css/main.css">
    <link rel="stylesheet" href="<?php site_url(); ?>/css/media-queries.css">
