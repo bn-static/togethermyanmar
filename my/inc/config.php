@@ -1,4 +1,4 @@
 <?php
 function site_url() {
-	echo 'http://togetherdecoration';
+	echo 'http://togetherdecoration.com';
 }
