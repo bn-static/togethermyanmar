@@ -24,8 +24,8 @@
   	/*----------------------------------------------------*/
 
   	if($("html").hasClass('ie8')) {
-  		$("#hero").backstretch("images/hero-bg.jpg");  	
-  		$("#page-title").backstretch("images/hero-bg.jpg");	
+  		$("#hero").backstretch("/images/hero-bg.jpg");  	
+  		$("#page-title").backstretch("/images/hero-bg.jpg");	
   	} 
 
    /*----------------------------------------------------*/
@@ -172,7 +172,7 @@
             .animate({opacity: 0.5}, 'fast', function() {
                 $(this)
                     .css({
-                        'background-image': 'url(images/hero-bg-'+slider.currentSlide+'.jpg)'
+                        'background-image': 'url(/images/hero-bg-'+slider.currentSlide+'.jpg)'
                       })
                     .animate({opacity: 1});
             });

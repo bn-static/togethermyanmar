@@ -6,9 +6,9 @@
 
          <div class="six columns tab-whole footer-about">
 				
-				<h3>About Together Myanmar</h3>
+				<h3>Together Myanmar အကြောင်း</h3>
                
-            <p>We are Together Myanmar Decoration Group located in Yangon, Naypyidaw and Pyinmanar. We offers wide range of interior and exterior decoration including teak funiture, stainless steel, painting, iron works, aluminium and glass.
+            <p>ကျွန်တော်တို့ရဲ့ Together Myanmar Decoration Group အနေနဲ့ ရန်ကုန် ၊ နေပြည်တော် နှင့် ပျဉ်းမနား မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
             </p>
 
          </div> <!-- /footer-about -->
@@ -18,9 +18,9 @@
             <div class="row">
 
                <div class="columns">
-                  <h3 class="address">Contact Us</h3>
+                  <h3 class="address">ဆက်သွယ်ရန်</h3>
                   <p>
-                  No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon
+                  အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့
                   </p>
 
                   <ul>
@@ -31,7 +31,7 @@
                </div> <!-- /columns -->             
 
                <div class="columns last">
-                  <h3 class="contact">Our Facebook</h3>
+                  <h3 class="contact">Facebook</h3>
                   <div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-width="220" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
                </div> <!-- /columns --> 
 
@@ -39,7 +39,7 @@
 
          </div>
 
-         <p class="copyright">&copy; Copyright 2016 Together Myanmar. Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
+         <p class="copyright">&copy; အချက်အလက်များမှာ Together Myanmar ၏မူပိုင် 2016 . Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
 
          <div id="go-top">
             <a class="smoothscroll" title="Back to Top" href="#main-header"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>

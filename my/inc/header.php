@@ -26,6 +26,9 @@
    <link rel="stylesheet" href="<?php site_url(); ?>/css/justifiedGallery.min.css">
    <link rel="stylesheet" href="<?php site_url(); ?>/css/swipebox.min.css">
    <style type="text/css">
+   body,p,h1,h2,h3,h4,h5,h6,a {
+    font-family: Tharlon !important;
+   }
    .brick {
         width: 350px;
       }
@@ -68,7 +71,7 @@
    	<div class="row header-inner">
 
 	      <div class="logo">
-	         <a class="smoothscroll" href="<?php site_url(); ?>">Together Myanmar.</a>
+	         <a class="smoothscroll" href="<?php site_url(); ?>/my">Together Myanmar.</a>
 	      </div>
 
 	      <nav id="nav-wrap">         
@@ -83,14 +86,14 @@
          	</a>         
 
 	         <ul id="nav" class="nav">
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/index.php">Home.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/services.php">Services.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/works.php">Our Clients.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/about.php">About.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/contact.php">Contact.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/index.php">မူလစာမျက်နှာ.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/services.php">ဝန်ဆောင်မှုများ.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/works.php">အလုပ်အပ်သူများ.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/about.php">ကျွန်ုပ်တို့ အကြောင်း.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/contact.php">ဆက်သွယ်ရန်.</a></li>
 	            <li>
                 <select onchange="if (this.value) window.location.href=this.value">
-                  <option>Language</option>
+                  <option>ဘာသာစကား</option>
                   <option value="<?php site_url(); ?>/my">Myanmar</option>
                   <option value="<?php site_url(); ?>/en">English</option>
                 </select></li>

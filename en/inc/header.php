@@ -68,7 +68,7 @@
    	<div class="row header-inner">
 
 	      <div class="logo">
-	         <a class="smoothscroll" href="<?php site_url(); ?>">Together Myanmar.</a>
+	         <a class="smoothscroll" href="<?php site_url(); ?>/en">Together Myanmar.</a>
 	      </div>
 
 	      <nav id="nav-wrap">         
@@ -83,11 +83,11 @@
          	</a>         
 
 	         <ul id="nav" class="nav">
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/index.php">Home.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/services.php">Services.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/works.php">Our Clients.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/about.php">About.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/contact.php">Contact.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/en/index.php">Home.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/en/services.php">Services.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/en/works.php">Our Clients.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/en/about.php">About.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/en/contact.php">Contact.</a></li>
 	            <li>
                 <select onchange="if (this.value) window.location.href=this.value">
                   <option>Language</option>
