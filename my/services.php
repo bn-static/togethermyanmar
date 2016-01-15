@@ -280,9 +280,25 @@
 
                <div class="widget widget_text">
 
-                  <h5 class="widget-title">လိပ်စာ</h5>
-                  <address>အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့
-                  </address>
+                  <h1 class="widget-title">
+              Yangon
+          </h1>
+          <address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</address>
+          <ul>
+              <li><a href="tel:0931240260">0931240260</a></li>
+              <li><a href="tel:09450041352">09450041352</a></li>
+              <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+          </ul>  
+
+          <h1 class="widget-title">
+              Naypyitaw
+          </h1>
+          <address>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</address>
+          <ul>
+            <li><a href="tel:067414014">067 414014</a></li>
+            <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+            <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+          </ul>
                   <a href="<?php site_url(); ?>/my/contact.php">Detail</a>
 
                </div> <!-- /widget_text -->

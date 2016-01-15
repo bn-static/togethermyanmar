@@ -24,22 +24,26 @@
    	<div class="row portfolio-content">
 
 	   	<div class="entry tab-whole nine columns centered">
-
-	        <header class="entry-header">
-
-				<h1 class="entry-title">
-						Address
-				</h1> 				 
-						 
-			</header>
-
 				<div class="entry-content">
-					<address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</address>
-					<ul>
-                    <li><a href="tel:0931240260">0931240260</a></li>
-                    <li><a href="tel:09450041352">09450041352</a></li>
-                    <li><a href="mailto:info2012@togetherdecoration.com">info2012@togetherdecoration.com</a></li>
-                  </ul>                  
+          <h1 class="entry-title">
+              Yangon
+          </h1>
+          <address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</address>
+          <ul>
+              <li><a href="tel:0931240260">0931240260</a></li>
+              <li><a href="tel:09450041352">09450041352</a></li>
+              <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+          </ul>  
+
+          <h1 class="entry-title">
+              Naypyitaw
+          </h1>
+          <address>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</address>
+          <ul>
+            <li><a href="tel:067414014">067 414014</a></li>
+            <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+            <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+          </ul> 
 				</div>
 				<hr>
 	         
@@ -141,7 +145,7 @@
                 zoom: 17,
                 scrollwheel: false,
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(16.775813,96.1625985), // New York
+                center: new google.maps.LatLng(16.834223, 96.123436), // New York
 
                 // How you would like to style the map. 
                 // This is where you would paste any style found on Snazzy Maps.
@@ -156,7 +160,7 @@
 
             // Let's also add a marker while we're at it
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(16.775813,96.1625985),
+                position: new google.maps.LatLng(16.834223, 96.123436),
                 map: map,
                 title: 'Biznet',
                 icon: '../images/map-pointer.png'

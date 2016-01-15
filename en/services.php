@@ -48,7 +48,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt conse ctetur consectetur dolore enim nisi.</p>
+                  <p>We design eye-catching interior and exterior for modern home, building. Interior and exterior painting with high quality paint and wallpaper installation.</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/interior-and-exterior.php">View Projects </a>
@@ -78,7 +78,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Furniture and parquet installation with teak wood</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/teak.php">View Projects </a>
@@ -108,7 +108,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Modern kitchen and office cabinet furniture decoration with ply, formica and chip board.</p>
                </div>
 
                <hr style="margin-left:0">
@@ -137,7 +137,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Stair, patio and border bar for swimming pool decoration with stainless steel and iron.</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/steel.php">View Projects </a>
@@ -167,7 +167,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Roller shutter installation with auto & manual system.</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/rollar-shutter.php">View Projects </a>
@@ -197,7 +197,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Ceiling decoration with gypsum & plaster</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/ceiling.php">View Projects </a>
@@ -227,7 +227,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Interior and exterior decoration with composite.</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/composite.php">View Projects </a>
@@ -257,7 +257,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Lorem ipsum Nisi enim est proident est magna occaecat dolore proident eu ex sunt consectetur consectetur dolore enim nisi.</p>
+                  <p>Aluminium & glass installation for window and door and room partition</p>
                </div>
 
                <a href="<?php site_url(); ?>/en/services/alumimium.php">View Projects </a>
@@ -281,9 +281,25 @@
 
                <div class="widget widget_text">
 
-                  <h5 class="widget-title">Our Address</h5>
-                  <address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon
-                  </address>
+                  <h1 class="widget-title">
+                       Yangon
+                   </h1>
+                   <address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</address>
+                   <ul>
+                       <li><a href="tel:0931240260">0931240260</a></li>
+                       <li><a href="tel:09450041352">09450041352</a></li>
+                       <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+                   </ul>  
+
+                   <h1 class="widget-title">
+                       Naypyitaw
+                   </h1>
+                   <address>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</address>
+                   <ul>
+                     <li><a href="tel:067414014">067 414014</a></li>
+                     <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+                   </ul>
                   <a href="<?php site_url(); ?>/en/contact.php">Detail</a>
 
                </div> <!-- /widget_text -->

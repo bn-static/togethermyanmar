@@ -25,20 +25,21 @@
 
 	   	<div class="entry tab-whole nine columns centered">
 
-	        <header class="entry-header">
-
-				<h1 class="entry-title">
-						လိပ်စာ
-				</h1> 				 
-						 
-			</header>
-
 				<div class="entry-content">
-					<address>အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့</address>
-					<ul>
+          <h1 class="entry-title">ရန်ကုန်</h1>
+          <address>အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့</address>
+          <ul>
                     <li><a href="tel:0931240260">0931240260</a></li>
                     <li><a href="tel:09450041352">09450041352</a></li>
-                    <li><a href="mailto:info2012@togetherdecoration.com">info2012@togetherdecoration.com</a></li>
+                    <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+                  </ul>                  
+
+                  <h1 class="entry-title">ရန်ကုန်</h1>
+          <address>အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်</address>
+          <ul>
+                    <li><a href="tel:067414014">067 414014</a></li>
+                    <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+                    <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul>                  
 				</div>
 				<hr>
@@ -141,7 +142,7 @@
                 zoom: 17,
                 scrollwheel: false,
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(16.775813,96.1625985), // New York
+                center: new google.maps.LatLng(16.834223, 96.123436), // New York
 
                 // How you would like to style the map. 
                 // This is where you would paste any style found on Snazzy Maps.
@@ -156,7 +157,7 @@
 
             // Let's also add a marker while we're at it
             var marker = new google.maps.Marker({
-                position: new google.maps.LatLng(16.775813,96.1625985),
+                position: new google.maps.LatLng(16.834223, 96.123436),
                 map: map,
                 title: 'Biznet',
                 icon: '../images/map-pointer.png'

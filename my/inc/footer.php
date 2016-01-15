@@ -8,9 +8,10 @@
 				
 				<h3>Together Myanmar အကြောင်း</h3>
                
-            <p>ကျွန်တော်တို့ရဲ့ Together Myanmar Decoration Group အနေနဲ့ ရန်ကုန် ၊ နေပြည်တော် နှင့် ပျဉ်းမနား မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
+            <p>ကျွန်တော်တို့ရဲ့ Together Myanmar Decoration Group အနေနဲ့ ရန်ကုန် နှင့် နေပြည်တော် မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
             </p>
 
+<div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
          </div> <!-- /footer-about -->
 
          <div class="six columns tab-whole right-cols">
@@ -18,21 +19,27 @@
             <div class="row">
 
                <div class="columns">
-                  <h3 class="address">ဆက်သွယ်ရန်</h3>
+                  <h3 class="address">ရန်ုကုန်</h3>
                   <p>
                   အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့
                   </p>
-
                   <ul>
-                    <li><a href="tel:0931240260">0931240260</a></li>
-                    <li><a href="tel:09450041352">09450041352</a></li>
-                    <li><a href="mailto:info2012@togetherdecoration.com">info2012@togetherdecoration.com</a></li>
+                    <li><a href="tel:0931240260">09 31240260</a></li>
+                    <li><a href="tel:09450041352">09 450041352</a></li>
+                    <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul>                  
                </div> <!-- /columns -->             
 
                <div class="columns last">
-                  <h3 class="contact">Facebook</h3>
-                  <div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-width="220" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
+                  <h3 class="address">နေပြည်တော်</h3>
+                  <p>
+                  အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်
+                  </p>
+                  <ul>
+                    <li><a href="tel:067414014">067 414014</a></li>
+                    <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+                    <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
+                  </ul> 
                </div> <!-- /columns --> 
 
             </div> <!-- /Row(nested) -->

@@ -190,7 +190,7 @@
           	   <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/1.jpg">
                         <div class="overlay"></div>                       
                         <div class="portfolio-item-meta">
@@ -205,7 +205,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/2.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
@@ -221,7 +221,7 @@
                <div class="bgrid stack item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/3.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
@@ -237,7 +237,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/4.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
@@ -253,7 +253,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                      	<img src="<?php site_url(); ?>/data/featured/5.jpg">
                        	<div class="overlay">
                        		<div class="portfolio-item-meta">
@@ -269,7 +269,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/6.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
@@ -285,7 +285,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">                        
+                     <a href="/my/services.php">                        
                         <img src="<?php site_url(); ?>/data/featured/7.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">
@@ -301,7 +301,7 @@
                <div class="bgrid item">
                   <div class="item-wrap">
 
-                     <a href="services.php">
+                     <a href="/my/services.php">
                         <img src="<?php site_url(); ?>/data/featured/8.jpg">
                         <div class="overlay">
                         	<div class="portfolio-item-meta">

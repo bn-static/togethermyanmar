@@ -27,7 +27,7 @@
    <link rel="stylesheet" href="<?php site_url(); ?>/css/justifiedGallery.min.css">
    <link rel="stylesheet" href="<?php site_url(); ?>/css/swipebox.min.css">
    <style type="text/css">
-   body,p,h1,h2,h3,h4,h5,h6,a {
+   body,p,h1,h2,h3,h4,h5,h6,a,strong {
     font-family: Tharlon !important;
    }
    .brick {
