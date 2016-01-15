@@ -9,7 +9,6 @@
          <div class="twelve columns">
 
             <h1>Services<span>.</span></h1>
-            <p>Aenean condimentum lacus sit amet luctus lobortis.</p>
 
          </div>             
 
