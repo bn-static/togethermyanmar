@@ -40,6 +40,7 @@
                     <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul> 
+                  <img src="https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Ftogetherdecoration.com&chs=80x80&choe=UTF-8&chld=L|2">
                </div> <!-- /columns --> 
 
             </div> <!-- /Row(nested) -->
@@ -49,7 +50,7 @@
          <p class="copyright">&copy; Copyright 2016 Together Myanmar. Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
 
          <div id="go-top">
-            <a class="smoothscroll" title="Back to Top" href="#main-header"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+            <a class="smoothscroll" title="Back to Top" href="#fb-root"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
          </div>
 
       </div> <!-- /row -->

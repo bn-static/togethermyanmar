@@ -40,6 +40,7 @@
                     <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul> 
+                  <img src="https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Ftogetherdecoration.com&chs=80x80&choe=UTF-8&chld=L|2">
                </div> <!-- /columns --> 
 
             </div> <!-- /Row(nested) -->
