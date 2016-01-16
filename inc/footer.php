@@ -42,7 +42,7 @@
          <p class="copyright">&copy; Copyright 2016 Together Myanmar. Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
 
          <div id="go-top">
-            <a class="smoothscroll" title="Back to Top" href="#main-header"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+            <a class="smoothscroll" title="Back to Top" href="#fb-root"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
          </div>
 
       </div> <!-- /row -->

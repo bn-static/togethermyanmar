@@ -6,9 +6,9 @@
 
          <div class="six columns tab-whole footer-about">
 				
-				<h3>About Together Myanmar</h3>
+				<h3>About Together Decoration</h3>
                
-            <p>We are Together Myanmar Decoration Group located in Yangon and Naypyidaw. We offers wide range of interior and exterior decoration including teak funiture, stainless steel, painting, iron works, aluminium and glass.
+            <p>We are Together Decoration located in Yangon and Naypyidaw. We offers wide range of interior and exterior decoration including teak funiture, stainless steel, painting, iron works, aluminium and glass.
             </p>
 
             <div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
@@ -22,7 +22,7 @@
                <div class="columns">
                   <h3 class="address">Yangon</h3>
                   <p>
-                  No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon
+                  <a href="/en/contact.php#maps">No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</a>
                   </p>
 
                   <ul>
@@ -34,7 +34,7 @@
 
                <div class="columns last">
                   <h3 class="contact">Naypyitaw</h3>
-                  <p>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</p>
+                  <p><a href="/en/contact.php#maps">No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</a></p>
                   <ul>
                     <li><a href="tel:067414014">067 414014</a></li>
                     <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>

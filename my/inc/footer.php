@@ -6,9 +6,9 @@
 
          <div class="six columns tab-whole footer-about">
 				
-				<h3>Together Myanmar အကြောင်း</h3>
+				<h3>Together Decoration အကြောင်း</h3>
                
-            <p>ကျွန်တော်တို့ရဲ့ Together Myanmar Decoration Group အနေနဲ့ ရန်ကုန် နှင့် နေပြည်တော် မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
+            <p>ကျွန်ုပ်တို့ရဲ့ Together Decoration အနေနဲ့ ရန်ကုန် နှင့် နေပြည်တော် မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
             </p>
 
 <div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
@@ -21,7 +21,7 @@
                <div class="columns">
                   <h3 class="address">ရန်ုကုန်</h3>
                   <p>
-                  အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စာကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့
+                  <a href="/my/contacts#maps">အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့</a>
                   </p>
                   <ul>
                     <li><a href="tel:0931240260">09 31240260</a></li>
@@ -33,7 +33,7 @@
                <div class="columns last">
                   <h3 class="address">နေပြည်တော်</h3>
                   <p>
-                  အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်
+                  <a href="/my/contacts#maps">အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်</a>
                   </p>
                   <ul>
                     <li><a href="tel:067414014">067 414014</a></li>

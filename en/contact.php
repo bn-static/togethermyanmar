@@ -30,8 +30,8 @@
           </h1>
           <address>No (132), Corner of Ywarma Kyaung Street &amp; Baho Road, (1) Quarter, (Htun Thitsa Car Servicing Compound) Hlaing Tsp, Yangon</address>
           <ul>
-              <li><a href="tel:0931240260">0931240260</a></li>
-              <li><a href="tel:09450041352">09450041352</a></li>
+              <li><a href="tel:095088123">095088123</a></li>
+              <li><a href="tel:098620123">098620123</a></li>
               <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
           </ul>  
 
@@ -131,6 +131,7 @@
       </div> <!-- /form-section -->     
 
    </section>  <!-- /contact-->
+   <div id="maps"></div>
    <div id="map-canvas" style="width: 100%; height: 400px"></div>
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script type="text/javascript">
