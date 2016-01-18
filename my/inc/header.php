@@ -28,7 +28,7 @@
    <link rel="stylesheet" href="<?php site_url(); ?>/css/swipebox.min.css">
    <style type="text/css">
    body,p,h1,h2,h3,h4,h5,h6,a,strong {
-    font-family: Tharlon !important;
+    font-family: Zawgyi-One;
    }
    .brick {
         width: 350px;
@@ -87,11 +87,11 @@
          	</a>         
 
 	         <ul id="nav" class="nav">
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/index.php">မူလစာမျက်နှာ.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/services.php">ဝန်ဆောင်မှုများ.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/works.php">အလုပ်အပ်သူများ.</a></li>
-	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/about.php">ကျွန်ုပ်တို့ အကြောင်း.</a></li>
-              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/contact.php">ဆက်သွယ်ရန်.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/index.php">မူလစာမ်က္ႏွာ.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/services.php">ဝန္ေဆာင္မွုမ်ား.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/works.php">အလုပ္အပ္သူမ်ား.</a></li>
+	            <li><a class="smoothscroll" href="<?php site_url(); ?>/my/about.php">ကၽြန္ုပ္တို႔ အေၾကာင္း.</a></li>
+              <li><a class="smoothscroll" href="<?php site_url(); ?>/my/contact.php">ဆက္သြယ္ရန္.</a></li>
 	            <li>
                 <select onchange="if (this.value) window.location.href=this.value">
                   <option>ဘာသာစကား</option>

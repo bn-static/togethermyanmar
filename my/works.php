@@ -8,7 +8,7 @@
 
          <div class="twelve columns">
 
-            <h1>ကျွန်တော်တို့၏ အလုပ်အပ်နှံသူများ<span>.</span></h1>
+            <h1>ကၽြန္ေတာ္တို႔၏ အလုပ္အပ္ႏွံသူမ်ား<span>.</span></h1>
 
          </div>             
 
@@ -37,7 +37,7 @@
 
                         <div class="member-name">
                            <h3>Hotel Amara</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/hotel-amara.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/hotel-amara.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -54,7 +54,7 @@
 
                         <div class="member-name">
                            <h3>MRTV 4</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/mrtv4.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/mrtv4.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -71,7 +71,7 @@
 
                         <div class="member-name">
                            <h3>Hotel Imperial Jade</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/imperial-jade.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/imperial-jade.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -88,7 +88,7 @@
 
                         <div class="member-name">
                            <h3>Government Home</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/government-home.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/government-home.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -105,7 +105,7 @@
 
                         <div class="member-name">
                            <h3>Nay Gabar</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/nay-gabar.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/nay-gabar.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -122,7 +122,7 @@
 
                         <div class="member-name">
                            <h3>New Day</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/new-day.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/new-day.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -138,7 +138,7 @@
 
                         <div class="member-name">
                            <h3>Police Station</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/police.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/police.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -154,7 +154,7 @@
 
                         <div class="member-name">
                            <h3>Police Station</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/pyi-garden.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/pyi-garden.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -170,7 +170,7 @@
 
                         <div class="member-name">
                            <h3>Ruby Hall</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/ruby-hall.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/ruby-hall.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -186,7 +186,7 @@
 
                         <div class="member-name">
                            <h3>Shwe Kyar Pin</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/shwe-kyar-pin.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/shwe-kyar-pin.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -202,7 +202,7 @@
 
                         <div class="member-name">
                            <h3>Toilet</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/toilet.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/toilet.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     
@@ -218,7 +218,7 @@
 
                         <div class="member-name">
                            <h3>Tower</h3>
-                           <span><a href="<?php site_url(); ?>/my/works/tower.php">ကြည့်ရန်</a></span>
+                           <span><a href="<?php site_url(); ?>/my/works/tower.php">ၾကည့္ရန္</a></span>
                         </div>
 
                      </div>                     

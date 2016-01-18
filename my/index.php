@@ -16,22 +16,22 @@
 					   <!-- Slide -->
 					   <li>
                <div class="flex-caption">
-                <h1>အရည်အသွေးမြင့် အခန်းအတွင်း ၊ အပြင် အလှဆင်လုပ်ငန်း</h1>  
-                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကျွန်တော်တို့ အကြောင်း</a></p>                                   
+                <h1>အရည္အေသြးျမင့္ အခန္းအတြင္း ၊ အျပင္ အလွဆင္လုပ္ငန္း</h1>  
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကၽြန္ေတာ္တို႔ အေၾကာင္း</a></p>                                   
               </div>            
              </li>
 
              <li>
                <div class="flex-caption">
-                <h1>သင်ဂုဏ်ယူဝန့်ကြွားနိုင်တဲ့ အပြင်အဆင်</h1>  
-                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကျွန်တော်တို့ အကြောင်း</a></p>                                   
+                <h1>သင္ဂုဏ္ယူဝန႔္ႂကြားနိုင္တဲ့ အျပင္အဆင္</h1>  
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကၽြန္ေတာ္တို႔ အေၾကာင္း</a></p>                                   
               </div>            
              </li>
 
              <li>
                <div class="flex-caption">
-                <h1>ကျွန်းအသုံးပြုပြီးတော့လဲ အလှဆင်နိုင်ပါတယ်</h1>
-                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကျွန်တော်တို့ အကြောင်း</a></p>                                   
+                <h1>ကၽြန္းအသုံးျပဳၿပီးေတာ့လဲ အလွဆင္နိုင္ပါတယ္</h1>
+                <p><a class="button stroke smoothscroll" href="<?php site_url(); ?>/my/about.php">ကၽြန္ေတာ္တို႔ အေၾကာင္း</a></p>                                   
               </div>            
              </li>
 
@@ -54,7 +54,7 @@
 
       <div class="twelve columns">
 
-           <h1>ဝန်ဆောင်မှုများ<span>.</span></h1>
+           <h1>ဝန္ေဆာင္မွုမ်ား<span>.</span></h1>
 
            <hr />
 
@@ -141,7 +141,7 @@
 
       	<div class="twelve columns">
 
-	         <h1>ကျွန်တော်တို့ လုပ်ပြီးသား ပရောဂျက်အချို့<span>.</span></h1>
+	         <h1>ကၽြန္ေတာ္တို႔ လုပ္ၿပီးသား ပေရာဂ်က္အခ်ိဳ႕<span>.</span></h1>
 
 	         <hr />
 

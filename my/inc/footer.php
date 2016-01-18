@@ -6,9 +6,9 @@
 
          <div class="six columns tab-whole footer-about">
 				
-				<h3>Together Decoration အကြောင်း</h3>
+				<h3>Together Decoration အေၾကာင္း</h3>
                
-            <p>ကျွန်ုပ်တို့ရဲ့ Together Decoration အနေနဲ့ ရန်ကုန် နှင့် နေပြည်တော် မြို့တို့မှာတည်ရှိပါတယ်။ Interior နှင့် Exterior အလှဆင် ဝင်ဆောင်မှုများအပြင် Teak Funiture, Stainless Steel, ဆေးသုတ်ခြင်း ၊ Iron Works, Aluminium နှင့် Glass အစရှိတဲ့ ဝန်ဆောင်မှုများကိုလည်း လူကြီးမင်းတို့စိတ်တိုင်းကျဖြစ်အောင် ဝန်ဆောင်မှုပေးလျက်ရှိပါသည်။ 
+            <p>ကၽြန္ုပ္တို႔ရဲ့ Together Decoration အေနနဲ႔ ရန္ကုန္ ႏွင့္ ေနျပည္ေတာ္ ၿမိဳ႕တို႔မွာတည္ရွိပါတယ္။ Interior ႏွင့္ Exterior အလွဆင္ ဝင္ေဆာင္မွုမ်ားအျပင္ Teak Funiture, Stainless Steel, ေဆးသုတ္ျခင္း ၊ Iron Works, Aluminium ႏွင့္ Glass အစရွိတဲ့ ဝန္ေဆာင္မွုမ်ားကိုလည္း လူႀကီးမင္းတို႔စိတ္တိုင္းက်ျဖစ္ေအာင္ ဝန္ေဆာင္မွုေပးလ်က္ရွိပါသည္။ 
             </p>
 
 <div class="fb-page" data-href="https://www.facebook.com/Together-Myanmar-1645903575685450/" data-height="72" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
@@ -19,9 +19,9 @@
             <div class="row">
 
                <div class="columns">
-                  <h3 class="address">ရန်ုကုန်</h3>
+                  <h3 class="address">ရန္ုကုန္</h3>
                   <p>
-                  <a href="/my/contacts#maps">အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စကားဝန်ဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့</a>
+                  <a href="/my/contacts#maps">အမွတ္ ၁၃၂ ၊ ရြာမေက်ာင္းလမ္း ႏွင့္ ဗဟိုလမ္းေထာင့္ ၊ ထြန္းသစၥကားဝန္ေဆာင္မွုဝန္း ၊ လွိုင္ၿမိဳ႕နယ္ ၊ ရန္ကုန္ၿမိဳ႕</a>
                   </p>
                   <ul>
                     <li><a href="tel:0931240260">09 31240260</a></li>
@@ -31,9 +31,9 @@
                </div> <!-- /columns -->             
 
                <div class="columns last">
-                  <h3 class="address">နေပြည်တော်</h3>
+                  <h3 class="address">ေနျပည္ေတာ္</h3>
                   <p>
-                  <a href="/my/contacts#maps">အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်</a>
+                  <a href="/my/contacts#maps">အမွတ္ (၁၁၇) ၊ ပ်ဥ္းမနား ေတာင္ညိဳလမ္း ၊ သေျဗကုန္း ၊ ဇဘူသီရိၿမိဳ႕နယ္ ၊ ေနျပည္ေတာ္</a>
                   </p>
                   <ul>
                     <li><a href="tel:067414014">067 414014</a></li>
@@ -47,7 +47,7 @@
 
          </div>
 
-         <p class="copyright">&copy; အချက်အလက်များမှာ Together Myanmar ၏မူပိုင် 2016 . Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
+         <p class="copyright">&copy; အခ်က္အလက္မ်ားမွာ Together Myanmar ၏မူပိုင္ 2016 . Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
 
          <div id="go-top">
             <a class="smoothscroll" title="Back to Top" href="#main-header"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>

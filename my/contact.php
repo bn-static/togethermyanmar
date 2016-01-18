@@ -8,7 +8,7 @@
 
 			<div class="twelve columns">
 
-				<h1>ဆက်သွယ်ရန်<span>.</span></h1>
+				<h1>ဆက္သြယ္ရန္<span>.</span></h1>
 
 			</div>			    
 
@@ -26,16 +26,16 @@
 	   	<div class="entry tab-whole nine columns centered">
 
 				<div class="entry-content">
-          <h1 class="entry-title">ရန်ကုန်</h1>
-          <address>အမှတ် ၁၃၂ ၊ ရွာမကျောင်းလမ်း နှင့် ဗဟိုလမ်းထောင့် ၊ ထွန်းသစ္စကားဝန်းဆောင်မှုဝန်း ၊ လှိုင်မြို့နယ် ၊ ရန်ကုန်မြို့</address>
+          <h1 class="entry-title">ရန္ကုန္</h1>
+          <address>အမွတ္ ၁၃၂ ၊ ရြာမေက်ာင္းလမ္း ႏွင့္ ဗဟိုလမ္းေထာင့္ ၊ ထြန္းသစၥကားဝန္းေဆာင္မွုဝန္း ၊ လွိုင္ၿမိဳ႕နယ္ ၊ ရန္ကုန္ၿမိဳ႕</address>
           <ul>
                     <li><a href="tel:095088123">095088123</a></li>
                     <li><a href="tel:098620123">098620123</a></li>
                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul>                  
 
-                  <h1 class="entry-title">ရန်ကုန်</h1>
-          <address>အမှတ် (၁၁၇) ၊ ပျဉ်းမနား တောင်ညိုလမ်း ၊ သဗြေကုန်း ၊ ဇဘူသီရိမြို့နယ် ၊ နေပြည်တော်</address>
+                  <h1 class="entry-title">ေနျပည္ေတာ္</h1>
+          <address>အမွတ္ (၁၁၇) ၊ ပ်ဥ္းမနား ေတာင္ညိဳလမ္း ၊ သေျဗကုန္း ၊ ဇဘူသီရိၿမိဳ႕နယ္ ၊ ေနျပည္ေတာ္</address>
           <ul>
                     <li><a href="tel:067414014">067 414014</a></li>
                     <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
@@ -53,7 +53,7 @@
 
    		<div class="twelve columns">
 
-	         <h1>ကျွန်တော်တို့နှင့် တိုက်ရိုက်ဆက်သွယ်ပါ<span>.</span></h1>
+	         <h1>ကၽြန္ေတာ္တို႔ႏွင့္ တိုက္ရိုက္ဆက္သြယ္ပါ<span>.</span></h1>
 
 	         <hr />
 
@@ -77,8 +77,8 @@
                   <div class="row">
 
 	                  <div class="twelve columns mob-whole">
-	                  	<label for="contactFname">နာမည် <span class="required">*</span></label>	      						   
-	      					<input name="contactFname" type="text" id="contactFname" placeholder="နာမည်" value="" />	      					
+	                  	<label for="contactFname">နာမည္ <span class="required">*</span></label>	      						   
+	      					<input name="contactFname" type="text" id="contactFname" placeholder="နာမည္" value="" />	      					
 	                  </div>                        
 
                   </div>
@@ -86,13 +86,13 @@
                   <div class="row">
 
 	                  <div class="six columns mob-whole">	
-	                  	<label for="contactEmail">အီးမေလ်း <span class="required">*</span></label>      						   
-	      					<input name="contactEmail" type="text" id="contactEmail" placeholder="အီးမေလ်း" value="" />	      					
+	                  	<label for="contactEmail">အီးေမလ္း <span class="required">*</span></label>      						   
+	      					<input name="contactEmail" type="text" id="contactEmail" placeholder="အီးေမလ္း" value="" />	      					
 	                  </div>
 
 	                  <div class="six columns mob-whole">	 
-	                  	<label for="contactSubject">ခေါင်းစဉ်</label>     						   
-	      					<input name="contactSubject" type="text" id="contactSubject" placeholder="ခေါင်းစဉ်"  value="" />	      					
+	                  	<label for="contactSubject">ေခါင္းစဥ္</label>     						   
+	      					<input name="contactSubject" type="text" id="contactSubject" placeholder="ေခါင္းစဥ္"  value="" />	      					
 	                  </div>
 
                   </div>
@@ -100,14 +100,14 @@
                   <div class="row">
 
 	                  <div class="twelve columns">
-	                     <label  for="contactMessage">အကြောင်းအရာ <span class="required">*</span></label>
-	                     <textarea name="contactMessage"  id="contactMessage" placeholder="အကြောင်းအရာ" rows="10" cols="50" ></textarea>
+	                     <label  for="contactMessage">အေၾကာင္းအရာ <span class="required">*</span></label>
+	                     <textarea name="contactMessage"  id="contactMessage" placeholder="အေၾကာင္းအရာ" rows="10" cols="50" ></textarea>
 	                  </div>
 
                   </div>
 
                   <div>
-                     <button class="submit full-width">ပို့ရနျ</button>
+                     <button class="submit full-width">ပို႔ရန်</button>
                      <div id="image-loader">
                         <img src="images/loader.gif" alt="" />
                      </div>

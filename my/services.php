@@ -8,7 +8,7 @@
 
          <div class="twelve columns">
 
-            <h1>ဝန်ဆောင်မှုများ <span>.</span></h1>
+            <h1>ဝန္ေဆာင္မွုမ်ား <span>.</span></h1>
 
          </div>             
 
@@ -47,10 +47,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>အဆင့်မြင့်ဆေးများဖြင့် အိမ်အတွင်း / အပြင် ဆေးသုတ်ခြင်း ၊ Wallpaper ကပ်ခြင်းခေတ်မှီပြီး ဆန်းသစ်လှပသော အဆင့်မြင့်အိမ် / အဆောက်အဦး အတွင်း / အပြင် ဒီဇိုင်းများကို လူကြီးမင်းတို့၏ စိတ်တိုင်းကျ ရေးဆွဲပေးပါသည်။</p>
+                  <p>အဆင့္ျမင့္ေဆးမ်ားျဖင့္ အိမ္အတြင္း / အျပင္ ေဆးသုတ္ျခင္း ၊ Wallpaper ကပ္ျခင္းေခတ္မွီၿပီး ဆန္းသစ္လွပေသာ အဆင့္ျမင့္အိမ္ / အေဆာက္အဦး အတြင္း / အျပင္ ဒီဇိုင္းမ်ားကို လူႀကီးမင္းတို႔၏ စိတ္တိုင္းက် ေရးဆြဲေပးပါသည္။</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/interior-and-exterior.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/interior-and-exterior.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -77,10 +77,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Teak Wood များဖြင့်လည်း Furniture & Parquet များ ခင်းပေးခြင်း</p>
+                  <p>Teak Wood မ်ားျဖင့္လည္း Furniture & Parquet မ်ား ခင္းေပးျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/teak.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/teak.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -107,7 +107,7 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Ply, Formica & Chip Board များဖြင့် ခေတ်မှီဆန်းသစ်သော Kitchen & Office Cabinet, Furniture များကို စိတ်တိုင်းကျ ဆောင်ရွက်ပေးခြင်း</p>
+                  <p>Ply, Formica & Chip Board မ်ားျဖင့္ ေခတ္မွီဆန္းသစ္ေသာ Kitchen & Office Cabinet, Furniture မ်ားကို စိတ္တိုင္းက် ေဆာင္ရြက္ေပးျခင္း</p>
                </div>
 
                <hr style="margin-left:0">
@@ -136,10 +136,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Stainless Steel & Iron များဖြင့် လှေကား ၊ ဝရန်တာ / ရေးကူးကန်လက်ယန်းများကိုလည်း ခေတ်မှီဆန်းသစ်သော ပုံစံများပြုလုပ် အလှဆင်ပေးခြင်း</p>
+                  <p>Stainless Steel & Iron မ်ားျဖင့္ ေလွကား ၊ ဝရန္တာ / ေရးကူးကန္လက္ယန္းမ်ားကိုလည္း ေခတ္မွီဆန္းသစ္ေသာ ပုံစံမ်ားျပဳလုပ္ အလွဆင္ေပးျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/steel.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/steel.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -166,10 +166,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Roller shutter များကို Auto & Manual System များဖြင့် တတ်ဆင်ပေးခြင်း</p>
+                  <p>Roller shutter မ်ားကို Auto & Manual System မ်ားျဖင့္ တတ္ဆင္ေပးျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/rollar-shutter.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/rollar-shutter.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -196,10 +196,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Gypsum & Plaster များဖြင့် Ceiling များကို အလှဆင်ပေးခြင်း</p>
+                  <p>Gypsum & Plaster မ်ားျဖင့္ Ceiling မ်ားကို အလွဆင္ေပးျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/ceiling.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/ceiling.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -226,10 +226,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Composite များဖြင့် အိမ်အတွင်း / အပြင်များကို အလှဆင်ပေးခြင်း</p>
+                  <p>Composite မ်ားျဖင့္ အိမ္အတြင္း / အျပင္မ်ားကို အလွဆင္ေပးျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/composite.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/composite.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
@@ -256,10 +256,10 @@
                </ul>
                   
                <div class="entry-content">
-                  <p>Aluminium & Glass များဖြင့် Window & Door များတတ်ဆင်ပေးခြင်း ၊ အခန်းဖွဲ့ခြင်း</p>
+                  <p>Aluminium & Glass မ်ားျဖင့္ Window & Door မ်ားတတ္ဆင္ေပးျခင္း ၊ အခန္းဖြဲ႕ျခင္း</p>
                </div>
 
-               <a href="<?php site_url(); ?>/my/services/alumimium.php">ပရောဂျက်များ ကြည့်ရန် </a>
+               <a href="<?php site_url(); ?>/my/services/alumimium.php">ပေရာဂ်က္မ်ား ၾကည့္ရန္ </a>
                <hr style="margin-left:0">
 
             </article> <!-- /entry -->
