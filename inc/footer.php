@@ -48,6 +48,7 @@
       </div> <!-- /row -->
 
    </footer> <!-- /footer -->
+   <div class="social-buttons"></div>
 
 
    <!-- Java Script
@@ -132,7 +133,7 @@
       }).on('jg.complete', function () {
           $('#freewall a').swipebox();
       });
-
+$('.social-buttons').html('<div class="fb-like" data-href="'+ window.location.href +'" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>');
 
     </script>
 

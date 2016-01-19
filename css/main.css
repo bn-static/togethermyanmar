@@ -579,7 +579,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 /* Alert Boxes
 /* ------------------------------------------------------------------ */
 iframe {
-	height: 72px !important;
+	/*height: 72px !important;*/
 }
 .alert-box {
 	padding: 21px 40px 21px 30px;
@@ -2068,4 +2068,20 @@ hr {
 }
 .more-projects .portfolio-wrapper {
 	text-align: left;
+}
+.social-buttons {
+	position: fixed;
+    bottom: 0;
+    right: 137px;
+    z-index: 900;
+    padding: 9px;
+    background: #1A294A;
+    display: none;
+}
+.twitter-share-button {
+	margin-bottom: -12px;
+	margin-left: 5px;
+}
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+    display: none !important;
 }

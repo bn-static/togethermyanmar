@@ -56,7 +56,7 @@
       </div> <!-- /row -->
 
    </footer> <!-- /footer -->
-
+   <div class="social-buttons"></div>
 
    <!-- Java Script
    ================================================== -->
@@ -141,7 +141,11 @@
           $('#freewall a').swipebox();
       });
 
-
+      if ($('#hero-slider').length == 0) {
+        $('.social-buttons').show();
+         $('.social-buttons').html('<div class="fb-like" data-href="'+ window.location.href +'" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div><a href="https://twitter.com/share" class="twitter-share-button"{count} data-hashtags="togetherdecoration">Tweet</a>');
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+      };
     </script>
 
 </body>
