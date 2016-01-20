@@ -1,4 +1,4 @@
 <?php
 function site_url() {
-	echo 'http://togetherdecoration.com';
+	echo 'http://localhost:1400';
 }

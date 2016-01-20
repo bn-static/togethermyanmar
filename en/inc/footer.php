@@ -26,8 +26,8 @@
                   </p>
 
                   <ul>
-                    <li><a href="tel:0931240260">09 31240260</a></li>
-                    <li><a href="tel:09450041352">09 450041352</a></li>
+                    <li><a href="tel:095088123">095088123</a></li>
+                    <li><a href="tel:098620123">098620123</a></li>
                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul>                   
                </div> <!-- /columns -->             
@@ -36,8 +36,8 @@
                   <h3 class="contact">Naypyitaw</h3>
                   <p><a href="/en/contact.php#maps">No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</a></p>
                   <ul>
-                    <li><a href="tel:067414014">067 414014</a></li>
-                    <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
+                    <li><a href="tel:067414014">067414014</a></li>
+                    <li><a href="tel:095182651">09 5182651, 0949330123</a></li>
                     <li><a href="mailto:info2002@togetherdecoration.com">info2002@togetherdecoration.com</a></li>
                   </ul> 
                   <img src="https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Ftogetherdecoration.com&chs=80x80&choe=UTF-8&chld=L|2">
