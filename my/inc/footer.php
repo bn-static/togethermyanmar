@@ -21,7 +21,7 @@
                <div class="columns">
                   <h3 class="address">ရန္ုကုန္</h3>
                   <p>
-                  <a href="/my/contacts#maps">အမွတ္ ၁၃၂ ၊ ရြာမေက်ာင္းလမ္း ႏွင့္ ဗဟိုလမ္းေထာင့္ ၊ ထြန္းသစၥကားဝန္ေဆာင္မွုဝန္း ၊ လွိုင္ၿမိဳ႕နယ္ ၊ ရန္ကုန္ၿမိဳ႕</a>
+                  <a href="/my/contacts#maps">အမွတ္ ၁၃၂ ၊ ရြာမေက်ာင္းလမ္း ၊ ထြန္းသစၥကားဝန္ေဆာင္မွုဝန္း ၊ လွိုင္ၿမိဳ႕နယ္ ၊ ရန္ကုန္ၿမိဳ႕</a>
                   </p>
                   <ul>
                     <li><a href="tel:095088123">095088123</a></li>
@@ -33,7 +33,7 @@
                <div class="columns last">
                   <h3 class="address">ေနျပည္ေတာ္</h3>
                   <p>
-                  <a href="/my/contacts#maps">အမွတ္ (၁၁၇) ၊ ပ်ဥ္းမနား ေတာင္ညိဳလမ္း ၊ သေျဗကုန္း ၊ ဇဘူသီရိၿမိဳ႕နယ္ ၊ ေနျပည္ေတာ္</a>
+                  <a href="/my/contacts#maps">အမွတ္ (၁၁၇)၊ ပ်ဥ္းမနား ေတာင္ညိဳလမ္း၊ သေျကုန္း၊ဇမၺူသီရိၿမိဳ႕နယ္၊ေနျပည္ေတာ္</a>
                   </p>
                   <ul>
                     <li><a href="tel:067414014">067414014</a></li>
@@ -50,7 +50,7 @@
          <p class="copyright">&copy; အခ်က္အလက္မ်ားမွာ Together Myanmar ၏မူပိုင္ 2016 . Powered by <a href="http://www.biznet.com.mm/">Biznet.</a></p>        
 
          <div id="go-top">
-            <a class="smoothscroll" title="Back to Top" href="#main-header"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
+            <a class="smoothscroll" title="Back to Top" href="#fb-root"><span>Top</span><i class="fa fa-long-arrow-up"></i></a>
          </div>
 
       </div> <!-- /row -->

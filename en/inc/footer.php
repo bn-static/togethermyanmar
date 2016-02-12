@@ -34,7 +34,7 @@
 
                <div class="columns last">
                   <h3 class="contact">Naypyitaw</h3>
-                  <p><a href="/en/contact.php#maps">No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</a></p>
+                  <p><a href="/en/contact.php#maps">No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyidaw</a></p>
                   <ul>
                     <li><a href="tel:067414014">067414014</a></li>
                     <li><a href="tel:095182651">09 5182651, 0949330123</a></li>

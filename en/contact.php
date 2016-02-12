@@ -38,7 +38,7 @@
           <h1 class="entry-title">
               Naypyitaw
           </h1>
-          <address>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyitaw</address>
+          <address>No.(117), Pyinmanar Taungnyo Road, Thapyaygone Qtr, Zabuthiri Tsp, Naypyidaw</address>
           <ul>
             <li><a href="tel:067414014">067 414014</a></li>
             <li><a href="tel:095182651">09 5182651, 09 49330123</a></li>
